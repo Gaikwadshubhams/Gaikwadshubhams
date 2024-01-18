@@ -1,0 +1,15 @@
+{
+  "name": "socialmediaapp",
+  "version": "1.0.0",
+  "description": "this is social media backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascritp",
+    "backend"
+  ],
+  "author": "shubham gaikwad",
+  "license": "ISC"
+}
